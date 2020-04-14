@@ -27,13 +27,15 @@ To help yourself get to and from your bunk every day, write a function called so
 
 Languages
 =========
+```
 
 To provide a Python solution, edit solution.py
-
 To provide a Java solution, edit Solution.java
+```
 
 Test cases
 ==========
+```
 Your code should pass the following test cases.
 Note that it may also be run against hidden test cases not shown here.
 
@@ -58,3 +60,4 @@ Input:
 Solution.solution(0, 1)
 Output:
     3
+```
