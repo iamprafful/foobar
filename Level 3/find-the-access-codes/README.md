@@ -11,12 +11,14 @@ For example, [1, 2, 3, 4, 5, 6] has the triples: [1, 2, 4], [1, 2, 6], [1, 3, 6]
 
 Languages
 =========
-
+```
 To provide a Java solution, edit Solution.java
 To provide a Python solution, edit solution.py
+```
 
 Test cases
 ==========
+```
 Your code should pass the following test cases.
 Note that it may also be run against hidden test cases not shown here.
 
@@ -41,3 +43,4 @@ Input:
 solution.solution([1, 1, 1])
 Output:
     1
+```
