@@ -13,4 +13,7 @@ Here are my solutions to Google's FooBar challenge.
 #### Level 3 ####
 1. [Find the Access Codes](https://github.com/prafful98/foobar/tree/master/Level%203/find-the-access-codes)
 2. [Fuel Injection Perfection](https://github.com/prafful98/foobar/tree/master/Level%203/fuel-injection-perfection)
-3. Solving Challenge(Coming Soon)
+3. [Prepare the Bunnies' Escape](https://github.com/prafful98/foobar/tree/master/Level%203/prepare-the-bunnies-escape)
+
+#### Level 4 ####
+1. Solving Challenge(Coming Soon)
