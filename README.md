@@ -16,4 +16,5 @@ Here are my solutions to Google's FooBar challenge.
 3. [Prepare the Bunnies' Escape](https://github.com/prafful98/foobar/tree/master/Level%203/prepare-the-bunnies-escape)
 
 #### Level 4 ####
-1. Solving Challenge(Coming Soon)
+1. [Free the Bunny Prisoners](https://github.com/prafful98/foobar/tree/master/Level%204/free-the-bunny-prisoners)
+2. Solving Challenge(Coming Soon)
