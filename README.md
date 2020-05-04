@@ -17,4 +17,7 @@ Here are my solutions to Google's FooBar challenge.
 
 #### Level 4 ####
 1. [Free the Bunny Prisoners](https://github.com/prafful98/foobar/tree/master/Level%204/free-the-bunny-prisoners)
-2. Solving Challenge(Coming Soon)
+2. [Running with Bunnies](https://github.com/prafful98/foobar/tree/master/Level%204/running-with-bunnies)
+
+#### Level 5 ####
+1. Solvinge challenge(coming soon)
